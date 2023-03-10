@@ -1,0 +1,24 @@
+{
+  "name": "crud_operations_with-expressjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsaimanjunathnaik083/CRUD_Operations_With-ExpressJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rsaimanjunathnaik083/CRUD_Operations_With-ExpressJS/issues"
+  },
+  "homepage": "https://github.com/rsaimanjunathnaik083/CRUD_Operations_With-ExpressJS#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.21"
+  }
+}
